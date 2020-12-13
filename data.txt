@@ -1,0 +1,5 @@
+font = 微软雅黑
+size = 12
+bg = white
+use = 0
+sing = 0
